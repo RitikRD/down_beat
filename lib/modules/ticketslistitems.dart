@@ -1,0 +1,60 @@
+class Ticket{
+  static var Tickets_list_items = [
+    {
+      "picture":    "assets/imgs/Photo-02.png",
+      "band_name":  "The dandy Dans",
+      "title":      "The Coca-Cola Roxy",
+      "location":    "800 Battery Ave, Atlanta, GA",
+      "vip_qty":     "VIP Entry- 2 qty.",
+      "general_qty": "General Admission- 2qty.",
+    },
+    {
+      "picture":    "assets/imgs/Photo-02.png",
+      "band_name":  "The dandy Dans",
+      "title":      "The Coca-Cola Roxy",
+      "location":    "800 Battery Ave, Atlanta, GA",
+      "vip_qty":     "VIP Entry- 2 qty.",
+      "general_qty": "General Admission- 2qty.",
+    },
+    {
+      "picture":    "assets/imgs/Photo-02.png",
+      "band_name":  "The dandy Dans",
+      "title":      "The Coca-Cola Roxy",
+      "location":    "800 Battery Ave, Atlanta, GA",
+      "vip_qty":     "VIP Entry- 2 qty.",
+      "general_qty": "General Admission- 2qty.",
+    },
+    {
+      "picture":    "assets/imgs/Photo-02.png",
+      "band_name":  "The dandy Dans",
+      "title":      "The Coca-Cola Roxy",
+      "location":    "800 Battery Ave, Atlanta, GA",
+      "vip_qty":     "VIP Entry- 2 qty.",
+      "general_qty": "General Admission- 2qty.",
+    },
+    {
+      "picture":    "assets/imgs/Photo-02.png",
+      "band_name":  "The dandy Dans",
+      "title":      "The Coca-Cola Roxy",
+      "location":    "800 Battery Ave, Atlanta, GA",
+      "vip_qty":     "VIP Entry- 2 qty.",
+      "general_qty": "General Admission- 2qty.",
+    },
+    {
+      "picture":    "assets/imgs/Photo-02.png",
+      "band_name":  "The dandy Dans",
+      "title":      "The Coca-Cola Roxy",
+      "location":    "800 Battery Ave, Atlanta, GA",
+      "vip_qty":     "VIP Entry- 2 qty.",
+      "general_qty": "General Admission- 2qty.",
+    },
+    {
+      "picture":    "assets/imgs/Photo-02.png",
+      "band_name":  "The dandy Dans",
+      "title":      "The Coca-Cola Roxy",
+      "location":    "800 Battery Ave, Atlanta, GA",
+      "vip_qty":     "VIP Entry- 2 qty.",
+      "general_qty": "General Admission- 2qty.",
+    },
+  ];
+}
